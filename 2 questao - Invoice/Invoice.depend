@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1533752971 source:c:\users\aluno.ci-hp\desktop\roteiro1\invoice\main.cpp
+	<iostream>
+	<string>
+	"Invoice.h"
+
+1533752203 c:\users\aluno.ci-hp\desktop\roteiro1\invoice\include\invoice.h
+	<iostream>
+	<string>
+
+1533752181 source:c:\users\aluno.ci-hp\desktop\roteiro1\invoice\src\invoice.cpp
+	"Invoice.h"
+	<string.h>
+	<iostream>
+
