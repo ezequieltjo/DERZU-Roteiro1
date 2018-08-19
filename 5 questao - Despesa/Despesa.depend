@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1534642775 source:c:\ezequiel\code blocks\roteiro1\despesa\src\controledegastos.cpp
+	"ControleDeGastos.h"
+
+1534642692 c:\ezequiel\code blocks\roteiro1\despesa\include\controledegastos.h
+	<string>
+	"Despesa.h"
+
+1534635701 source:c:\ezequiel\code blocks\roteiro1\despesa\main.cpp
+	<iostream>
+	"Despesa.h"
+	"ControleDeGastos.h"
+	<string>
+
+1534642288 c:\ezequiel\code blocks\roteiro1\despesa\include\despesa.h
+	<string>
+
+1534642242 source:c:\ezequiel\code blocks\roteiro1\despesa\src\despesa.cpp
+	"Despesa.h"
+
